@@ -1,4 +1,4 @@
-## I'am Ali 👋
+## I'am Ali 👋, a passionate frontend developer.
 
 ![](https://leetcard.jacoblin.cool/aliyolalan)
 
